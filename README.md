@@ -33,8 +33,8 @@ The goal is to demonstrate strong command over **SQL fundamentals** and **advanc
 
 ## 🛠️ Tech Stack
 
-- **Database:** PostgreSQL (queries are generic SQL and work on MySQL, SQL Server, etc.)
-- **Tools:** DBeaver / pgAdmin / any SQL Editor
+- **Database:** PostgreSQL 
+- **Tools:** pgAdmin
 - **Version Control:** Git and GitHub
 
 ---
@@ -92,32 +92,14 @@ LIMIT 1;
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Bookstore-SQL-Project.git
-   ```
-2. Load the `.csv` files into your SQL environment (PostgreSQL / MySQL).
-3. Execute `bookstore_queries.sql` to create tables and run analysis.
-4. Modify and extend queries as you like for deeper insights!
-
----
-
 ## 🤝 Let's Connect!
 
 If you liked this project or have any feedback, feel free to connect:
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: mayurpatil11801@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mayurpatil1130
 
 ---
 
 # ⭐ Don't forget to give a star to the repository if you find it useful!
 
----
-
----
-
-Would you also like me to give you a **starter GitHub repository name**, `description`, and `topics/tags` suggestion that you can directly use while creating the GitHub repo? 🚀  
-(They help in making your project even more discoverable!)
