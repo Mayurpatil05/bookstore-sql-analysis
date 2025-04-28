@@ -3,8 +3,6 @@
 
 # 📚 Bookstore SQL Analysis Project
 
-![SQL](https://img.shields.io/badge/Language-SQL-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) ![GitHub](https://img.shields.io/badge/Platform-GitHub-black)
-
 ---
 
 ## 📖 Project Overview
